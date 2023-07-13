@@ -9,7 +9,7 @@
   </style>
 </head>
 <body>
-  <button onclick="bored()">Afficher une valeur aléatoire</button>
+  <button onclick="bored()">bored</button>
   <p id="result"></p>
   
   <script src="script.js"></script>
