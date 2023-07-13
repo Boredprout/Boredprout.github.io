@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Bouton aléatoire</title>
@@ -10,7 +9,7 @@
   </style>
 </head>
 <body>
-  <button onclick="afficherElementAleatoire()">Afficher une valeur aléatoire</button>
+  <button onclick="bored()">Afficher une valeur aléatoire</button>
   <p id="result"></p>
   
   <script src="script.js"></script>
