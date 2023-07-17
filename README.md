@@ -13,7 +13,7 @@
   <p id="result"></p>
   
   <script>
-    var groupesMots = ["peinture", "cinéma", "mémoire", "site web", "broderie"];
+    var groupesMots = ["livre peinture", "mémoire", "site web", "broderie", "livre photographie", "peintures notes", "défi sport", "géographie", "collections", "rédiger livre", "court métrage", "solfège", "babbel"];
 
     function afficherElementAleatoire() {
       var randomIndex = Math.floor(Math.random() * groupesMots.length);
